@@ -64,6 +64,10 @@ Se deja de prueba la siguiente imagen para una vista previa del resultado.
 
 ![prediccion](https://github.com/VivaldoGP/ProyectoFinalML/blob/main/comparacion.png)
 
+## Discusión
+
+La Inteligencia Artificial tiene un potencial enorme en todos los campos de estudio pero precisamente en la Geomática tiene una gran utilidad, para este caso lo recomendado es aumentar el número de epochs para que el entrenamiento sea el suficiente y las predicciones tengan un mayor porcentaje de aciertos.
+
 
 
 

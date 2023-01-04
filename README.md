@@ -68,6 +68,8 @@ Se deja de prueba la siguiente imagen para una vista previa del resultado.
 
 La Inteligencia Artificial tiene un potencial enorme en todos los campos de estudio pero precisamente en la Geomática tiene una gran utilidad, para este caso lo recomendado es aumentar el número de epochs para que el entrenamiento sea el suficiente y las predicciones tengan un mayor porcentaje de aciertos.
 
+## Extras
 
+En el siguiente [enlace](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47) se puede encontrar una excelente explicación del tema desarrollado en este proyecto y que sirvió de inspiración y guía.
 
 

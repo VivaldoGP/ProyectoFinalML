@@ -73,3 +73,5 @@ La Inteligencia Artificial tiene un potencial enorme en todos los campos de estu
 En el siguiente [enlace](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47) se puede encontrar una excelente explicación del tema desarrollado en este proyecto y que sirvió de inspiración y guía.
 
 
+[presentacion](https://drive.google.com/file/d/1DB7f19DSi1xQwW5Y4cIIx4lIeUO2mK7_/view?usp=drivesdk)
+
